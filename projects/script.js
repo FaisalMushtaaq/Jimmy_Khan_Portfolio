@@ -18,7 +18,7 @@ $(document).ready(function () {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Projects | Portfolio Faisal Mushtaq";
+    document.title = "Projects | Portfolio Jimmy Khan";
     $("#favicon").attr("href", "/assets/images/favicon.png");
   } else {
     document.title = "Come Back To Portfolio";
