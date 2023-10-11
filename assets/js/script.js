@@ -75,11 +75,18 @@ document.addEventListener("visibilitychange", function () {
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
   strings: [
-    "frontend development",
-    "backend development",
-    "web designing",
-    "android development",
-    "web development",
+    "Digital Marketing",
+    "On-Page SEO | OFF-Page SEO",
+    "Digital Marketing",
+    "Google My bussines",
+    "SEO Expert",
+    "Technical SEO",
+    "ASO Expert",
+    "Website Audit",
+    "Keywords Research",
+    "Google ADS",
+    "Local SEO",
+    "Backlinks",
   ],
   loop: true,
   typeSpeed: 50,
