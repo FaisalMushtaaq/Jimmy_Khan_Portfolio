@@ -42,5 +42,29 @@
   {
     "name": "GMB",
     "icon": "./assets/images/gmb.jpeg"
+  },
+  {
+    "name": "Keyword Research",
+    "icon": "./assets/images/key.jpeg"
+  },
+  {
+    "name": "Backlinks",
+    "icon": "./assets/images/back.jpeg"
+  },
+  {
+    "name": "Website Ranking",
+    "icon": "./assets/images/rank.jpeg"
+  },
+  {
+    "name": "App Store Optimization",
+    "icon": "./assets/images/app.jpeg"
+  },
+  {
+    "name": "Local SEO",
+    "icon": "./assets/images/local.jpeg"
+  },
+  {
+    "name": "Content Writing",
+    "icon": "./assets/images/content.jpeg"
   }
 ]
